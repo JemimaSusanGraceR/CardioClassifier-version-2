@@ -94,4 +94,15 @@ accompanying thesis.
 
 ## License
 
-TBD
+The code in this repository (`annotationn.ipynb`, `classifierr.ipynb`,
+`mainn.ipynb`) is released under the MIT License, see `LICENSE`.
+
+The reference data files in the table above are **not** covered by that licence.
+Each is redistributed here for reproducibility under its original source's terms,
+with attribution as listed in the Data files section. CardiacG2P and the Walsh et
+al. 2019 hotspot data are public resources; the legacy-database and case-cohort
+files (`acmg_curations.csv`, `clingen_curations.csv`,
+`report_comment_functional.csv`, `original_case_control_studies.csv`,
+`JUL_HCMgenes.tsv`, `JUL_DCMgenes.tsv`, the TTN files) are aggregate,
+non-identifiable summaries only. If you reuse any of them, cite the original
+source rather than this repository.
