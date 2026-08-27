@@ -1,0 +1,91 @@
+ac_id,ac_chr,ac_pos,ac_ref,ac_alt,ac_gene,ac_cdna,ac_disease,ac_acmg_rule,ac_strength,ac_activate_rule,ac_evidence_value,ac_evidence,ac_source,ac_curator,ac_include
+1,11,47364249,G,A,MYBPC3,c.1504C>T,HCM,PP1,Strong,Y,4.04,"Segregated with a combined LoD score of 4.04 (random chance 1/11,000)",PMID:20378854,0,Y
+2,11,47369975,C,T,MYBPC3,c.772G>A,HCM,PS3,Strong,Y,,"Shown to cause skipping of exon 6 and a truncated protein. The homozygous knock-in mouse for p.Glu258Lys recapitulates features present in HCM patients, such as left ventricular hypertrophy and reduced fractional shortening.","PMID:19590044,15114369,19574547,25031304",0,Y
+3,11,47369975,C,T,MYBPC3,c.772G>A,HCM,PP1,Strong,Y,,Segregated in 7 affected family members from 2 families,"PMID:9562578,16858239",0,Y
+4,11,47359280,C,CC,MYBPC3,c.2373dupG,HCM,PS3,Strong,Y,,MYBPC3 protein expression significantly reduced in cardiac samples from mutation carriers. Also reduced phosphorylation of cardiac troponin I and reduced maximal force-generating capacity. Mutant protein was not incorporated correctly into the sarcomere in mice.,"PMID:19273718,27108529",0,Y
+5,11,47359280,C,CC,MYBPC3,c.2373dupG,HCM,PP1,Strong,Y,,Strong segregation in multiple large families,"ClinVar:SCV000059136.4;PMID:10736283,9562578",0,Y
+6,11,47364129,C,G,MYBPC3,c.1624G>C,HCM,PS3,Strong,Y,,Studies of mutant patient lymphocytes reported skipping of exon 17 leading to premature stop codon. Dominant negative effect on sarcomere function suggested from studies of fetal rat cardiomyocytes.,"PMID:9048664,10610770,22057632",0,Y
+7,11,47364129,C,G,MYBPC3,c.1624G>C,HCM,PP1,Strong,Y,,Segregated with disease in 12 affected members in 5 families,"ClinVar:SCV000256661.2,SCV000059072.4;PMID:9048664",0,Y
+8,11,47361343,T,C,MYBPC3,c.1928-2A>G,HCM,PS3,Strong,Y,,RNA studies have shown skipping of exon 21 resulting in a frameshift and introduction of a premature stop codon.,"PMID:10610770,11499719,7493026",0,Y
+9,11,47361343,T,C,MYBPC3,c.1928-2A>G,HCM,PP1,Strong,Y,,Segregated with disease in >20 affected relatives across several families,ClinVar:SCV000059101.4,0,Y
+10,11,47359115,C,T,MYBPC3,c.2429G>A,HCM,PP1,Supporting,Y,,Segregated with disease in 3 affected relatives from 3 families,ClinVar:SCV000256161.1,0,Y
+11,11,47360926,TG,T,MYBPC3,c.2096delC,HCM,PP1,Moderate,Y,,Segregated in 5 affected family members,ClinVar:SCV000059112.4,0,Y
+12,11,47356671,G,A,MYBPC3,c.2827C>T,HCM,PP1,Supporting,Y,,Segregated with disease in 4 affected relatives in 4 families,ClinVar:SCV000059178.4,0,Y
+13,11,47354848,T,TA,MYBPC3,c.3226_3227insT,HCM,PP1,Moderate,Y,,Segregated with disease in 6 affected relatives from 4 families,ClinVar:SCV000059217.4,0,Y
+14,11,47356632,CAG,C,MYBPC3,c.2864_2865delCT,HCM,PS3,Strong,Y,,MYBPC3 protein expression significantly reduced in cardiac samples from mutation carriers. Also reduced phosphorylation of cardiac troponin I and reduced maximal force-generating capacity.,PMID:19273718,0,Y
+15,11,47356632,CAG,C,MYBPC3,c.2864_2865delCT,HCM,PP1,Strong,Y,,Significant segregation (>10 meioses) with disease across multiple families,ClinVar:SCV000256180.1,0,Y
+16,11,47364269,C,T,MYBPC3,c.1484G>A,HCM,PP1,Supporting,Y,,"Segregated in 4 individuals from 2 families, but data suggests reduced penetrance",ClinVar:SCV000198912.3,0,Y
+17,11,47353740,G,A,MYBPC3,c.3697C>T,HCM,PP1,Strong,Y,,Segregated with disease in >10 affected relatives,"PMID:11499719,16199542,18957093,16715312",0,Y
+18,11,47354743,A,C,MYBPC3,c.3330+2T>G,HCM,PS3,Strong,Y,,"Shown to cause skipping of exon 30, leading to a frameshift and premature termination",PMID: 17937428,0,Y
+19,11,47367923,T,C,MYBPC3,c.927-2A>G,HCM,PS3,Strong,Y,,Confirmed to lead to aberrant splicing in lymphoblast cells from HCM patients with this variant.,PMID:9562578,0,Y
+20,11,47367923,T,C,MYBPC3,c.927-2A>G,HCM,PP1,Strong,Y,,Segregated with disease in >10 affected relatives,ClinVar:SCV000059333.4,0,Y
+21,11,47354116,C,T,MYBPC3,c.3627+1G>A,HCM,PS3,Strong,Y,,Confirmed to lead to aberrant splicing in lymphoblast cells from HCM patients with this variant.,PMID:9562578,0,Y
+22,11,47354116,C,T,MYBPC3,c.3627+1G>A,HCM,PP1,Strong,Y,,Segregated with disease in >10 affected relatives,PMID:9562578,0,Y
+23,11,47364248,C,T,MYBPC3,c.1505G>A,HCM,PP1,Strong,Y,,Segregated with diseases in 9 affected family members from two unrelated families,PMID:9562578,0,Y
+24,11,47356592,C,T,MYBPC3,c.2905+1G>A,HCM,PS3,Strong,Y,,tudies of mutant patient RNA confirmed inframe skipping of exon 27 and loss of 56 high conserved amino acid residues.,PMID:11499719,0,Y
+25,11,47357495,C,T,MYBPC3,c.2670G>A,HCM,PP1,Supporting,Y,,Segregated with disease in at least 4 affected relatives,ClinVar:SCV000059169.4,0,Y
+26,11,47359085,C,T,MYBPC3,c.2459G>A,HCM,PP1,Moderate,Y,,Segregated with disease in 6 affected relatives with HCM from 3 families,ClinVar:SCV000198854.3,0,Y
+27,11,47370037,T,G,MYBPC3,c.710A>C,HCM,PP1,Strong,Y,,Segregated with disease in 10 affected relatives from 2 families,ClinVar:SCV000059314.4,0,Y
+28,14,23894525,C,T,MYH7,c.2389G>A,HCM,PP1,Strong,Y,,Segregated with disease in >10 affected family members,ClinVar:SCV000059441.4,0,Y
+29,14,23896866,C,T,MYH7,c.1816G>A,HCM,PP1,Strong,Y,,Segregated with disease in >10 affected relatives from multiple families,ClinVar:SCV000280305.1,0,Y
+30,14,23896866,C,T,MYH7,c.1816G>A,HCM,PM6,Moderate,Y,,Occurred de novo in one young individual with suspected HCM,ClinVar:SCV000208754.6,0,Y
+31,14,23899059,C,T,MYH7,c.1063G>A,HCM,PP1,Supporting,Y,,Segregated with disease in three individuals from one family and in several other families tested at GeneDx,ClinVar:SCV000208717.9,0,Y
+32,14,23893268,C,T,MYH7,c.2770G>A,HCM,PS3,Strong,Y,,"Functional studies demonstrated that E924K, which lies in the S2 segment of the myosin rod, abolishes normal binding to MYBPC3",PMID:10024460,0,Y
+33,14,23893268,C,T,MYH7,c.2770G>A,HCM,PP1,Supporting,Y,,Segregated with disease in all 3 clinically affected family members in one family,ClinVar:SCV000212642.1,0,Y
+34,14,23893268,C,T,MYH7,c.2770G>A,HCM,PS2,Strong,Y,,First described by Watkins et al (1992) as a de novo variant,"PMID:1430197,1552912",0,Y
+35,14,23900811,C,T,MYH7,c.715G>A,HCM,PP1,Moderate,Y,,Segregated with disease in 5 affected relatives,ClinVar:SCV000059647.4,0,Y
+36,14,23887453,C,T,MYH7,c.4135G>A,HCM,PP1,Strong,Y,,Strong segregation across multiple families,"ClinVar:SCV000059538.4,SCV000212637.1",0,Y
+37,14,23894612,C,T,MYH7,c.2302G>A,HCM,PP1,Moderate,Y,,Segregated with disease in 5 affected relatives from 3 families,ClinVar:SCV000199202.3,0,Y
+38,19,55665514,G,A,TNNI3,c.433C>T,HCM,PS3,Strong,Y,,Functional studies showed increased force generation in muscle fibres from transgenic mice,PMID:19651143,0,Y
+39,19,55665514,G,A,TNNI3,c.433C>T,HCM,PP1,Strong,Y,,Segregated in >15 affected family members,ClinVar:SCV000059946.4,0,Y
+40,19,55665462,C,T,TNNI3,c.485G>A,HCM,PP1,Strong,Y,,Segregated with disease in >10 affected relatives from multiple families,ClinVar:SCV000059952.4,0,Y
+41,19,55665477,G,A,TNNI3,c.470C>T,HCM,PP1,Strong,Y,,Segregated with disease in 7 affected relatives from multiple families,ClinVar:SCV000059951.4,0,Y
+42,19,55665525,C,T,TNNI3,c.422G>A,HCM,PP1,Supporting,Y,,Segregated with disease in 3 affected relatives from 3 separate families,ClinVar:SCV000209166.6,0,Y
+43,1,201332504,TCTC,T,TNNT2,c.487_489delGAG,HCM,PP1,Strong,Y,,Segregated with disease in >10 affected family members,ClinVar:SCV000060251.4,0,Y
+44,1,201334766,A,T,TNNT2,c.236T>A,HCM,PP1,Strong,Y,,Segregated with disease in at least 16 individuals from 2 families,"PMID:7898523,18651846",0,Y
+45,1,201334426,G,A,TNNT2,c.274C>T,HCM,PP1,Strong,Y,,Segregated with disease in >15 affected relatives from >5 families,ClinVar:SCV000060228.4,0,Y
+46,15,63353922,G,A,TPM1,c.574G>A,HCM,PP1,Strong,Y,,Segregated with disease in at least 7 affected relatives from 5 different families,ClinVar:SCV000060282.4;PMID:26960954,0,Y
+47,15,63353098,G,A,TPM1,c.523G>A,HCM,PS3,Strong,Y,,"In vitro, patient muscle fibres and transgenic mice studies show increased Ca2+ sensitivity and impaired contractility","PMID:9440709,10400910,10900175",0,Y
+48,15,63353098,G,A,TPM1,c.523G>A,HCM,PP1,Strong,Y,,Segregate with disease in more than 15 families,ClinVar:SCV000059992.4,0,Y
+49,15,63353098,G,A,TPM1,c.523G>A,HCM,PM6,Moderate,Y,,Haplotype reconstruction from 2 affected and 3 unaffected siblings revealed the mutation to have arrisen de novo,PMID:7729014,0,Y
+50,1,201331098,ATCT,A,TNNT2,c.629_631delAGA,DCM,PP1,Strong,Y,,Segregated with disease in >10 affected relatives,ClinVar:SCV000060262.4,0,Y
+51,1,201333464,G,A,TNNT2,c.421C>T,DCM,PS3,Strong,Y,,Transgenic mice that express this variant exhibited dilated hearts and decreased systolic function,"PMID:18349139,18606313",0,Y
+52,1,201333464,G,A,TNNT2,c.421C>T,DCM,PP1,Strong,Y,,Segregated with disease in 16 affected relatives from 2 families,"PMID:11684629,15769782",0,Y
+53,1,201333464,G,A,TNNT2,c.421C>T,DCM,PM6,Moderate,Y,,Identified as de novo in an 11 year old female with sporadic DCM and severe heart failure,PMID:26656454,0,Y
+54,12,32955491,C,G,PKP2,c.2146-1G>C,ARVD/C,PS3,Strong,Y,,"Shown to cause skipping of exon 11, resulting in a frameshift (Pro716fs) and premature termination 32 amino acids downstream, leading to reduction of PKP2 protein in the myocardium","PMID:15489853,19279339,25087486",0,Y
+55,12,32955491,C,G,PKP2,c.2146-1G>C,ARVD/C,PP1,Moderate,Y,,Moderate segregation data showing markedly reduced penetrance,"PMID:17010805,25087486,27335691",0,Y
+56,12,32955434,GGTGTG,C,PKP2,c.2197_2202delCACACCinsG,ARVD/C,PP1,Moderate,Y,,Segregated in 6 relatives from 3 families,ClinVar:SCV000061871.4,0,Y
+57,12,32949042,C,T,PKP2,c.2489+1G>A,ARVD/C,PP1,Moderate,Y,,Segregated with disease in 6 affected relatives from 6 families,ClinVar:SCV000199907.3,0,Y
+58,14,23886806,C,T,MYH7,c.4259G>A,HCM,PP1,Supporting,Y,,Segregated with disease in 3 affected family members.,ClinVar:SCV000059549.4,1,Y
+59,14,23884861,G,A,MYH7,c.5134C>T,HCM,PP1,Moderate,Y,,"Segregated with disease in 3 affected family members in each of 2 families (Hougs et al and Hagen et al, the latter family also had the mitochondrial MT-CYB:p.C39Y variant).","PMID:15483641,24498601",1,Y
+60,3,46901001,T,C,MYL3,c.445A>G,HCM,PP1,Strong,Y,6.2,"Segregated with disease in 13 family members (LOD=6.2, Poetter et al) and in 12 family members (Arad et al).","PMID:8673105,16267253",1,Y
+61,14,23897840,C,T,MYH7,c.1447G>A,HCM,PP1,Moderate,Y,,Variant found in family with two sarcomeric mutations (also MYBPC3:p.E1096X) but 4 affected members had only this variant.,PMID:10424815,1,Y
+62,14,23893256,C,T,MYH7,c.2782G>A,HCM,PP1,Moderate,Y,,Segregated with an HCM phenotype in at least four individuals within one family in the absence of any other disease-causing variants.,ClinVar:SCV000208509.10,1,Y
+63,14,23900635,A,G,MYH7,c.788T>C,HCM,PP1,Strong,Y,,"Segregated with disease in 9 members of one family (with one unaffected, aged 9, and 8 unaffected without variant) and in 2 members of second family (with 4 unaffected and 8 unaffected without variant).",PMID:15008060,1,Y
+64,19,55663278,C,T,TNNI3,c.557G>A,HCM,PP1,Strong,Y,,"Segregated with disease in 4 members of one family (3 unaffected, absent in 2 unaffected) and in one member of second family (3 unaffected, absent in 3 unaffected) by Mogensen et al. Present in two cousins with HCM and history of heart disease in family by Roberts et al. Segregates with disease in 6 members of family with HCM and AF by Wang et al.","PMID:15607392,23540544,26169204",1,Y
+65,1,201334425,C,T,TNNT2,c.275G>A,HCM,PP1,Strong,Y,8.3,Segregated with disease in all 6 affected members of one family (LOD score 4.1) by Thierfelder et al. Segregated in 3 unrelated HCM families (LOD score 8.3.) by Watkins et al.,"PMID:8205619,7898523",1,Y
+66,1,201334425,C,T,TNNT2,c.275G>A,HCM,PM6,Moderate,Y,,Occurred de novo in a patient with HCM by Morita el al.,PMID:18403758,1,Y
+67,14,23896042,C,T,MYH7,c.2146G>A,HCM,PM6,Moderate,Y,,Occurred de novo in another (LMM unpublished data),ClinVar: SCV000059418.4,22,Y
+68,11,47364125,T,A,MYBPC3,c.1624+4A>T,HCM,PP1,Moderate,Y,,Segregated with disease in 5 affected family members from 3 families,ClinVar: SCV000059070.4,22,Y
+69,11,47355103,C,T,MYBPC3,c.3190+5G>A,HCM,PP1,Moderate,Y,,Segregated with disease in 5 affected relatives from 2 families.,ClinVar: SCV000203979.3,22,Y
+70,3,46902303,G,C,MYL3,c.170C>G,HCM,PP1,Moderate,Y,,Segregated with disease in 5 affected from 2 different families,ClinVar: SCV000208873.9,22,Y
+71,1,201328373,G,A,TNNT2,c.832C>T,HCM,PP1,Moderate,Y,,The p.Arg278Cys variant in TNNT2 has been reported in >10 individuals with HCM and segregated with disease in at least 5 affected individuals (including one affected obligate carrier) from multiple families,ClinVar: SCV000060277.4,22,Y
+72,11,47356593,G,A,MYBPC3,c.2905C>T,HCM,PP1,Strong,Y,,Reported to co-segregate with HCM in more than 25 relatives from three different families,ClinVar: SCV000208130.11,22,Y
+73,14,23898214,G,A,MYH7,c.1357C>T,HCM,PP1,Strong,Y,3.9,Strong segregation data. Watkins et al (1992) reported p.Arg453Cys in two families with HCM with a Lod score of 4.4 in one family and a Lod score of 3.9 in the other.,ClinVar: SCV000280298.1,22,Y
+74,14,23896042,C,T,MYH7,c.1988G>A,HCM,PP1,Strong,Y,,Segregated with disease in 16 individuals in one family.,ClinVar: SCV000280309.1,22,Y
+75,14,23896042,C,T,MYH7,c.2146G>A,HCM,PP1,Strong,Y,,Segregating with disease in 9 affected relatives from 2 families,ClinVar: SCV000035418.2,22,Y
+76,14,23895023,G,A,MYH7,c.2167C>T,HCM,PP1,Strong,Y,,"Segregated with disease in 7 affected relatives from 3 families (Tesson 1998, Richard 2003, LMM data)",ClinVar: SCV000059423.4,22,Y
+77,14,23894048,C,T,MYH7,c.2609G>A,HCM,PP1,Strong,Y,,Segregated with disease in >15 affected relatives,ClinVar: SCV000059458.4,22,Y
+78,14,23893321,T,C,MYH7,c.2717A>G,HCM,PP1,Strong,Y,,Segregated with disease in >10 affected relatives from 2 families,ClinVar:  SCV000059468.4,22,Y
+79,14,23893316,G,C,MYH7,c.2722C>G,HCM,PP1,Strong,Y,,Segregated with disease in >50 affected relatives,ClinVar: SCV000059471.4,22,Y
+80,6,11880200,T,G,PLN,c.116T>G,HCM,PP1,Strong,Y,,"Across these 4 families, this variant segregated with disease in 8 affected relatives.",ClinVar: SCV000199944.3,22,Y
+81,11,19209833,A,G,CSRP3,c.131T>C,HCM,PP1,Supporting,Y,,Segregated with disease in 2 definitively and 1 possibly affected relatives as well as one obligate carrier with unknown disease status,ClinVar: SCV000061432.4,22,Y
+82,11,47364571,C,T,MYBPC3,c.1351+1G>A,HCM,PP1,Supporting,Y,,"Segregated with disease in 4 affected relatives from two families with HCM (Waldmuller 2001, Zou 2006 abstract, Ho 2009 and LMM unpublished data)",ClinVar: SCV000198923.3,22,Y
+83,14,23894969,C,A,MYH7,c.2221G>T,HCM,PP1,Supporting,Y,,Segregated with disease in 4 affected relatives from 2 families.,ClinVar: SCV000203910.3,22,Y
+84,14,23886504,C,A,MYH7,c.4377G>T,HCM,PP1,Supporting,Y,, reported this variant to segregate with HCM in two family members,ClinVar: SCV000208591.7,22,Y
+85,14,23895023,G,A,MYH7,c.2167C>T,HCM,PS2,Strong,Y,,Reported as de novo in 1 affected individual (paternity confirmed; Watkins 1992),ClinVar: SCV000059423.5,22,Y
+86,11,47360071,C,T,MYBPC3,c.2308G>A,HCM,PS3,Strong,Y,,Experimental studies have shown that this variant leads to an aberrant MYBPC3 mRNA processing (PMID: 25031304),PMID: 25031304,22,Y
+87,11,47364125,T,A,MYBPC3,c.1624+4A>T,HCM,PS3,Strong,Y,,Results in skipping of exon 17,ClinVar: SCV000208041.9,22,Y
+88,11,47356592,C,T,MYBPC3,c.2905+1G>A,HCM,PS3,Strong,Y,,"Experimental studies which evaluated the effect of this splice site change reported in frame skipping of exon 27 and the generation of an abnormal protein product (PMID: 11499719, 25031304)","PMID: 11499719, 25031304",22,Y
+89,11,47355103,C,T,MYBPC3,c.3190+5G>A,HCM,PS3,Strong,Y,,"This pathogenic variant destroys the splice donor site in intron 29 and is expected to result in skipping of exon 29, which results in a truncated protein (Rodriguez-Garcia et al., 2010; Crehalet et al., 2012).",ClinVar: SCV000208157.11,22,Y
+90,11,47354740,C,G,MYBPC3,c.3330+5G>C,HCM,PS3,Strong,Y,,"The variant was showed to lead to an aberrant splice transcript due to skipping of exon 30, shift in the reading frame, and premature termination of translation in exon 31. ",ClinVar: SCV000280261.1,22,Y

@@ -1,0 +1,46 @@
+disease,gene,protein,description,rule,strength,aa_start,aa_end,PMID
+LQT (Channelopathy),KCNQ1,ENSP00000155840,Transmembrane/Linker/Pore - TM extracellular 2,PM1,moderate,218,225,PMID: 29369293
+LQT (Channelopathy),KCNQ1,ENSP00000155840,Transmembrane/Linker/Pore - TM extracellular 1,PM1,moderate,143,147,PMID: 29369293
+LQT (Channelopathy),KCNQ1,ENSP00000155840,Transmembrane/Linker/Pore - TM helical S6,PM1,moderate,328,348,PMID: 29369293
+LQT (Channelopathy),KCNQ1,ENSP00000155840,Transmembrane/Linker/Pore - TM pore-forming H5,PM1,moderate,300,320,PMID: 29369293
+LQT (Channelopathy),KCNQ1,ENSP00000155840,Transmembrane/Linker/Pore - TM helical S5,PM1,moderate,262,282,PMID: 29369293
+LQT (Channelopathy),KCNQ1,ENSP00000155840,Transmembrane/Linker/Pore - TM cytoplasmic 2,PM1,moderate,249,261,PMID: 29369293
+LQT (Channelopathy),KCNQ1,ENSP00000155840,Transmembrane/Linker/Pore - TM helical S2,PM1,moderate,148,168,PMID: 29369293
+LQT (Channelopathy),KCNQ1,ENSP00000155840,Transmembrane/Linker/Pore - TM extracellular 4,PM1,moderate,321,327,PMID: 29369293
+LQT (Channelopathy),KCNH2,ENSP00000262186,N-terminus - Per-Arnt-Sim (PAS),PM1,moderate,41,70,PMID: 29369293
+LQT (Channelopathy),KCNH2,ENSP00000262186,Transmembrane/Linker/Pore - TM helical S4 - voltage-sensor,PM1,moderate,521,541,PMID: 29369293
+LQT (Channelopathy),KCNH2,ENSP00000262186,Transmembrane/Linker/Pore - TM helical S6,PM1,moderate,639,659,PMID: 29369293
+LQT (Channelopathy),KCNH2,ENSP00000262186,Transmembrane/Linker/Pore - TM helical S2,PM1,moderate,451,471,PMID: 29369293
+LQT (Channelopathy),KCNH2,ENSP00000262186,Transmembrane/Linker/Pore - TM helical S5,PM1,moderate,548,568,PMID: 29369293
+LQT (Channelopathy),KCNH2,ENSP00000262186,Transmembrane/Linker/Pore - TM extracellular 3,PM1,moderate,569,611,PMID: 29369293
+LQT (Channelopathy),KCNH2,ENSP00000262186,Transmembrane/Linker/Pore - TM pore-forming H5,PM1,moderate,612,632,PMID: 29369293
+LQT (Channelopathy),KCNQ1,ENSP00000155840,Transmembrane/Linker/Pore - TM extracellular 3,PM1,supporting,283,299,PMID: 29369293
+LQT (Channelopathy),KCNQ1,ENSP00000155840,N-terminus,PM1,supporting,1,121,PMID: 29369293
+LQT (Channelopathy),KCNQ1,ENSP00000155840,Transmembrane/Linker/Pore - TM cytoplasmic 1,PM1,supporting,169,196,PMID: 29369293
+LQT (Channelopathy),KCNQ1,ENSP00000155840,Transmembrane/Linker/Pore - TM helical S4 - voltage-sensor,PM1,supporting,226,248,PMID: 29369293
+LQT (Channelopathy),KCNQ1,ENSP00000155840,Transmembrane/Linker/Pore - TM helical S1,PM1,supporting,122,142,PMID: 29369293
+LQT (Channelopathy),KCNH2,ENSP00000262186,Transmembrane/Linker/Pore - TM extracellular 1,PM1,supporting,425,450,PMID: 29369293
+LQT (Channelopathy),KCNH2,ENSP00000262186,Transmembrane/Linker/Pore - TM helical S3,PM1,supporting,496,516,PMID: 29369293
+LQT (Channelopathy),KCNH2,ENSP00000262186,N-terminus - PAS-associated C terminal (PAC),PM1,supporting,92,144,PMID: 29369293
+LQT (Channelopathy),KCNH2,ENSP00000262186,Transmembrane/Linker/Pore - TM cytoplasmic 1,PM1,supporting,472,495,PMID: 29369293
+HCM,MYH7,ENSP00000347507,Non-truncating variant in a region with a high etiological fraction,PM1,moderate,167,931,PMID: 30696458
+HCM,MYBPC3,ENSP00000442795,Non-truncating variant in a region with a high etiological fraction,PM1,moderate,485,502,PMID: 30696458
+HCM,MYBPC3,ENSP00000442795,Non-truncating variant in a region with a high etiological fraction,PM1,moderate,1248,1266,PMID: 30696458
+HCM,TNNI3,ENSP00000341838,Non-truncating variant in a region with a high etiological fraction,PM1,moderate,141,209,PMID: 30696458
+HCM,TNNT2,ENSP00000499593,Non-truncating variant in a region with a high etiological fraction,PM1,supporting,79,179,PMID: 30696458
+HCM,TPM1,ENSP00000385107,Non-truncating variant in a gene with a high etiological fraction,PP2,supporting,NA,NA,PMID: 30696458
+DCM,RBM20,ENSP00000358532,RS-rich region in exon 9,PM1,moderate,634,638,PMID: 29369293
+DCM,BAG3,NA,NA,NULL,NA,NA,NA,NA
+DCM,DES,NA,NA,NULL,NA,NA,NA,NA
+DCM,DSP,NA,NA,NULL,NA,NA,NA,NA
+DCM,FLNC,NA,NA,NULL,NA,NA,NA,NA
+DCM,LMNA,NA,NA,NULL,NA,NA,NA,NA
+DCM,MYH7,NA,NA,NULL,NA,NA,NA,NA
+DCM,PLN,NA,NA,NULL,NA,NA,NA,NA
+DCM,SCN5A,NA,NA,NULL,NA,NA,NA,NA
+DCM,TNNC1,NA,NA,NULL,NA,NA,NA,NA
+DCM,TNNT2,NA,NA,NULL,NA,NA,NA,NA
+DCM,TTN,NA,NA,NULL,NA,NA,NA,NA
+HCM,ACTC1,NA,NA,NULL,NA,NA,NA,NA
+HCM,MYL2,NA,NA,NULL,NA,NA,NA,NA
+HCM,MYL3,NA,NA,NULL,NA,NA,NA,NA
