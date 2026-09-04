@@ -1,0 +1,4 @@
+# Case-cohort data used for PS4 (case-control enrichment). Not yet published, excluded from this public distribution. 
+# See README for what this means for the pipeline's behaviour without them.
+JUL_HCMgenes.tsv
+JUL_DCMgenes.tsv
