@@ -1,0 +1,61 @@
+Sort,Genomic,cDNA,Amino Acid,SCV,VariantID,PVS1,PS1,PS2,PS3,PS4,PP1_ Str,PM1,PM2,PM3,PM4,PM5,PM6,PVS1_Mod,PS4_Mod,PP1_Mod,PP1,PP2,PP3,PP4,PP5,PS4_ Sup,BA1,BS1,BS2,BS3,BS4,BP1,BP2,BP3,BP4,BP5,BP6,BP7,Path/Lik Path/VUS/Lik Ben/Ben,nan,nan,nan,nan,nan,nan,nan,nan,nan
+1,23902311G>A,c.327C>T,p.Tyr109Tyr,SCV000564504.1,42952,,N,N,N,N,N,N,N,,N,N,N,N,N,N,N,,N,,,N,Y,N,,N,N,,N,,N,N,N,Y,Benign, -, -, -, -, -, -, -,0.001359,sas
+2,23901922C>T,c.428G>A,p.Arg143Gln,SCV000564407.1,43006,,N,N,N,Y,N,N,Y,,N,N,N,N,N,N,Y,,N,,,N,N,N,,N,N,,N,,N,N,N,N,Likely pathogenic,10,14,24,HCM,0,4,4,0,none
+3,23900793C>T,c.732+1G>A,----,Removed,Removed,,N,N,N,N,N,N,Y,,N,N,N,Y,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Uncertain significance,1,0,1,Mild LV enlargement with LVNC and AV block,0,0,0,-,-
+4,23900635A>G,c.788T>C,p.Ile263Thr,SCV000564409.1,43106,,N,N,N,Y,Y,Y,Y,,N,N,N,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,7,13,20,HCM,10,0,10,-,-
+5,23899016C>T,c.1106G>A,p.Arg369Gln,SCV000564410.1,42822,,N,N,N,N,N,Y,Y,,N,N,Y,N,Y,N,N,,N,,,N,N,N,,N,N,,N,,N,N,N,N,Likely pathogenic,2,4,6,"DCM, DCM/LVNC",0,2,2,-,-
+6,23898538T>C,c.1157A>G,p.Tyr386Cys,SCV000564411.1,164378,,N,N,N,N,N,Y,Y,,N,N,Y,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Likely pathogenic,1,0,1,HCM,0,0,0,-,-
+7,23898488G>A,c.1207C>T,p.Arg403Trp,SCV000564412.1,14102,,N,N,N,Y,Y,Y,Y,,N,Y,N,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,>15,7,>22,HCM,>>7,1,>>8,-,-
+8,23898487C>T,c.1208G>A,p.Arg403Gln,SCV000564413.1,14087,,N,N,Y,Y,Y,Y,Y,,N,Y,N,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,16,18,34,HCM,>35,3,>38,-,-
+9,23898214G>A,c.1357C>T,p.Arg453Cys,SCV000564414.1,14089,,N,Y,Y,Y,Y,Y,Y,,N,N,N,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,10,>15,>25,HCM/RCM,>7,>7,>14,-,-
+10,23898213C>T,c.1358G>A,p.Arg453His,SCV000564415.1,42838,,N,N,N,Y,N,Y,Y,,N,Y,Y,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,6,7,13,HCM,0,0,0,-,-
+11,23897809_23897810del,c.1477_1478delAT,p.Met493fs,SCV000564416.1,177817,,N,N,N,N,N,N,Y,,N,N,N,Y,N,N,N,,N,,,N,N,N,,N,N,,N,,N,N,N,N,Uncertain significance,1,0,1,DCM,0,0,0,-,-
+12,23897088A>G,c.1594T>C,p.Ser532Pro,SCV000564417.1,14108,,N,N,Y,N,Y,Y,Y,,N,N,N,N,N,N,N,,Y,,,Y,N,N,,N,N,,N,,N,N,N,N,Pathogenic,1,1,2,DCM,>10,0,>10,-,-
+13,23896932C>G,c.1750G>C,p.Gly584Arg,SCV000564418.1,14090,,N,N,N,Y,N,Y,Y,,N,N,N,N,N,Y,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,8,24,32,HCM,3,2,5,-,-
+14,23896042C>T,c.1988G>A,p.Arg663His,SCV000564419.1,42875,,N,N,N,Y,Y,Y,Y,,N,N,N,N,N,N,N,,N,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,>15,>15,>30,HCM,>7,>7,>14,5e-06,nfe
+15,23895189C>T,c.2146G>A,p.Gly716Arg,SCV000564420.1,14105,,N,N,N,Y,Y,Y,Y,,N,N,Y,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,18,16,34,HCM,8,3,11,-,-
+16,23895180G>A,c.2155C>T,p.Arg719Trp,SCV000564421.1,14104,,N,Y,Y,Y,Y,Y,Y,,N,Y,N,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,18,11,29,HCM,7,1,8,-,-
+17,23895179C>T,c.2156G>A,p.Arg719Gln,SCV000564422.1,14107,,N,N,N,Y,Y,Y,Y,,N,Y,N,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,15,18,33,HCM,3,4,7,-,-
+18,23895169C>T,c.2162+4G>A,,SCV000564423.1,42884,,N,N,N,N,N,N,N,,N,N,N,N,N,N,N,,N,,,N,Y,N,,N,N,,N,,Y,N,N,N,Benign, -, -, -, -, -, -, -,0.00746900000000001,afr
+19,23895023G>C,c.2167C>G,p.Arg723Gly,SCV000564424.1,42885,,N,N,N,Y,Y,Y,Y,,N,Y,N,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,6,6,12,HCM,27,0,27,-,-
+20,23895023G>A,c.2167C>T,p.Arg723Cys,SCV000564425.1,14095,,N,N,N,Y,Y,Y,Y,,N,Y,Y,N,N,N,N,,Y,,,N,N,N,,N,N,,Y,,N,N,N,N,Pathogenic,9,11,20,HCM,4,3,7,5e-06,nfe
+21,23894983A>G,c.2207T>C,p.Ile736Thr,SCV000564426.1,164342,,N,N,N,Y,N,Y,Y,,N,N,N,N,N,Y,N,,N,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,16,10,26,HCM,4,1,5,-,-
+22,23894969C>G,c.2221G>C,p.Gly741Arg,SCV000564427.1,14098,,N,N,N,Y,N,Y,Y,,N,Y,Y,N,N,N,Y,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,7,15,22,HCM,3,1,4,-,-
+23,23894969C>A,c.2221G>T,p.Gly741Trp,SCV000564428.1,177665,,N,N,N,Y,N,Y,Y,,N,Y,N,N,N,Y,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,4,17,21,HCM,4,2,6,-,-
+24,23894554C>T,c.2360G>A,p.Arg787His,SCV000564429.1,42900,,N,N,N,N,N,Y,N,,N,N,N,N,N,N,N,,N,,,N,N,N,,N,N,,Y,,N,N,N,N,Uncertain significance,16,4,20,HCM,0,0,0,0.000852,sas
+25,23894144G>A,c.2513C>T,p.Pro838Leu,SCV000564430.1,42910,,N,Y,N,N,N,Y,Y,,N,N,N,N,N,N,N,,Y,,,Y,N,N,,N,N,,N,,N,N,N,N,Pathogenic,1,1,2,RCM,0,0,0,-,-
+26,23894116_23894118del,c.2539_2541delAAG,p.Lys847del,SCV000564431.1,42913,,N,N,N,Y,N,N,Y,,Y,N,N,N,N,N,Y,,N,,,N,N,N,,N,N,,N,,N,N,N,N,Likely pathogenic,8,7,15,HCM,0,3,3,-,-
+27,23894118T>C,c.2539A>G,p.Lys847Glu,SCV000564432.1,177757,,N,N,N,Y,N,Y,Y,,N,N,N,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Likely pathogenic,>15,11,>26,HCM,0,0,0,-,-
+28,23894049G>A,c.2608C>T,p.Arg870Cys,SCV000564433.1,161326,,N,N,N,N,N,Y,Y,,N,Y,N,N,N,N,N,,Y,,,Y,N,N,,N,N,,N,,N,N,N,N,Likely pathogenic,3,2,5,HCM,0,1,1,0,none
+29,23894048C>T,c.2609G>A,p.Arg870His,SCV000564434.1,14120,,N,N,N,Y,Y,Y,Y,,N,N,N,N,N,N,N,,N,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,>15,>15,>30,HCM,>9,0,>9,0,none
+30,23893979G>A,c.2678C>T,p.Ala893Val,SCV000564435.1,177763,,N,N,N,N,N,Y,Y,,N,N,N,N,N,Y,N,,N,,,Y,N,N,,N,Y,,N,,N,N,N,N,Likely Pathogenic,2,2,4,DCM,5,0,5,-,-
+31,23893357T>C,c.2681A>G,p.Glu894Gly,SCV000564436.1,42922,,N,N,N,Y,N,Y,Y,,N,N,N,N,N,Y,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,16,13,29,HCM,0,6,6,-,-
+32,23893321T>C,c.2717A>G,p.Asp906Gly,SCV000564437.1,14125,,N,N,N,Y,Y,Y,Y,,N,N,N,N,N,N,N,,N,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,7-8,17-18,24-26,HCM,10,0,10,-,-
+33,23893316G>C,c.2722C>G,p.Leu908Val,SCV000564438.1,14097,,N,N,N,Y,Y,Y,Y,,N,N,N,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Pathogenic,>15,>15,>30,HCM,>10,>10,>20,-,-
+34,23893245_23893247del,c.2791_2793delGAG,p.Glu931del,SCV000564439.1,42934,,N,N,N,N,N,N,Y,,Y,N,N,N,N,Y,N,,N,,,Y,N,N,,N,N,,N,,N,N,N,N,Likely pathogenic,3,1,4,HCM,5,0,5,-,-
+35,23892819G>A,c.3036C>T,p.Ala1012Ala,SCV000564440.1,42945,,N,N,N,N,N,N,N,,N,N,N,N,N,N,N,,N,,,N,Y,N,,N,N,,N,,N,N,N,Y,Benign, -, -, -, -, -, -, -,-,-
+36,23891501G>A,c.3133C>T,p.Arg1045Cys,SCV000564441.1,177753,,N,N,N,Y,N,N,Y,,N,N,N,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Likely pathogenic,5,6,11,HCM,0,1,1,0,none
+37,23891476C>T,c.3158G>A,p.Arg1053Gln,SCV000564442.1,155814,,N,N,N,Y,N,N,Y,,N,N,N,N,N,Y,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Likely pathogenic,23,3,26,HCM,5,0,0,0,none
+38,23891465C>T,c.3169G>A,p.Gly1057Ser,SCV000564443.1,42950,,N,N,N,N,N,N,Y,,N,N,N,N,Y,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Uncertain significance,5,4,9,HCM,0,0,0,0,none
+39,23890217C>A,c.3286G>T,p.Asp1096Tyr,SCV000577981.2,42953,,N,N,N,N,N,N,N,,N,N,N,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Uncertain significance,2,2,4,HCM,0,0,0,0.000174,nfe
+40,23889398C>T,c.3382G>A,p.Ala1128Thr,SCV000564444.1,42959,,N,N,N,N,N,N,N,,N,N,N,N,N,N,N,,N,,,N,N,N,,N,N,,N,,N,N,N,N,Uncertain significance,1,3,4,"3 DCM, 1 HCM",0,0,0,0.000137,amr
+41,23889202C>T,c.3578G>A,p.Arg1193His,SCV000564445.1,42965,,N,N,N,N,N,N,N,,N,N,N,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Uncertain significance,1,4,5,DCM,1,2,3,0,none
+42,23889120_23889122del,c.3658_3660delGAG,p.Glu1220del,SCV000564446.1,42968,,N,N,N,N,N,N,Y,,Y,N,N,N,N,N,Y,,N,,,Y,N,N,,N,N,,N,,N,N,N,N,Likely pathogenic,2,0,2,Ebstein's anomaly +/- LVNC,3,0,3,-,-
+43,23887607G>T,c.3981C>A,p.Asn1327Lys,SCV000564447.1,36641,,N,N,N,N,N,N,N,,N,N,N,N,N,N,N,,Y,,,N,N,N,,N,Y,,N,,N,N,N,N,Uncertain significance,2,19,21,HCM,0,1,1,0.000107,nfe
+44,23887522C>T,c.4066G>A,p.Glu1356Lys,SCV000564448.1,164294,,N,N,N,Y,N,N,Y,,N,N,N,N,N,Y,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Likely pathogenic,7,9,16,HCM,0,5,5,-,-
+45,23887458G>A,c.4130C>T,p.Thr1377Met,SCV000564449.1,42992,,N,N,N,Y,N,N,Y,,N,N,N,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Likely pathogenic,>15,13,>15,HCM,0,2,2,-,-
+46,23886807G>A,c.4258C>T,p.Arg1420Trp,SCV000564450.1,43003,,N,N,N,N,N,N,Y,,N,N,N,N,Y,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Likely pathogenic,7,4,11,HCM,0,0,0,0,none
+47,23886789C>T,c.4276G>A,p.Glu1426Lys,SCV000564451.1,43005,,N,N,N,N,N,N,Y,,N,N,N,N,N,N,N,,Y,,,Y,N,N,,N,N,,N,,N,N,N,N,Uncertain significance,2,1,3,DCM,2,0,2,-,-
+48,23886534G>A,c.4354-7C>T,,SCV000564452.1,43011,,N,N,N,N,N,N,Y,,N,N,N,N,N,N,N,,N,,,Y,N,N,,N,N,,N,,N,N,N,Y,Uncertain significance,0,2,2,HCM,0,0,0,1.2e-05,nfe
+49,23886504C>A,c.4377G>T,p.Lys1459Asn,SCV000577982.2,43012,,N,N,N,N,N,N,N,,N,N,N,N,N,N,N,,Y,,,N,N,Y,,N,N,,N,,N,N,N,N,Likely benign, -, -, -, -, -, -, -,0.000375,nfe
+50,23886133G>A,c.4588C>T,p.Arg1530X,SCV000564453.1,43029,,N,N,N,N,N,N,Y,,N,N,N,Y,N,N,N,,N,,,N,N,N,,N,N,,N,,N,N,N,N,Uncertain significance,0,1,1,DCM,0,1,1,0,none
+51,23885257C>T,c.4909G>A,p.Ala1637Thr,SCV000564454.1,43044,,N,N,N,N,N,N,N,,N,N,N,N,N,N,N,,N,,,N,N,N,,N,N,,N,,N,N,N,N,Uncertain significance,1,1,2,HCM ,0,0,0,0.000189,afr
+52,23884860C>T,c.5135G>A,p.Arg1712Gln,SCV000564455.1,36642,,N,N,N,Y,N,N,Y,,N,N,N,N,N,N,Y,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Likely pathogenic,17,18,35,HCM,0,4,4,0,none
+53,23884461C>T,c.5302G>A,p.Glu1768Lys,SCV000564456.1,43059,,N,N,N,N,N,N,Y,,N,N,N,N,N,N,N,,Y,,,Y,N,N,,N,N,,N,,N,N,N,N,Uncertain significance,1,3,4,HCM,0,0,0,-,-
+54,23884437T>C,c.5326A>G,p.Ser1776Gly,SCV000564457.1,177629,,N,N,N,N,N,N,N,,N,N,N,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Uncertain significance,3,9,12,HCM,1,0,1,4.1e-05,eas
+55,23884434C>T,c.5329G>A,p.Ala1777Thr,SCV000564458.1,177697,,N,N,N,N,N,N,Y,,N,N,N,N,N,N,N,,Y,,,Y,N,N,,N,N,,N,,N,N,N,N,Uncertain significance,1,2,3,"HCM, RCM ",0,0,0,2e-05,nfe
+56,23884362C>T,c.5401G>A,p.Glu1801Lys,SCV000564459.1,43069,,N,N,N,N,N,N,Y,,N,N,Y,N,N,N,N,,Y,,,Y,N,N,,N,N,,N,,N,N,N,N,Likely pathogenic,1,3,4,DCM +/- myopathy,2,0,2,-,-
+57,23883283C>T,c.5588G>A,p.Arg1863Gln,SCV000564460.1,43076,,N,N,N,N,N,N,Y,,N,N,N,N,N,N,N,,Y,,,Y,N,N,,N,N,,N,,N,N,N,N,Uncertain significance,0,1,1,DCM,0,0,0,0,none
+58,23883054C>G,c.5704G>C,p.Glu1902Gln,SCV000564461.1,43082,,N,N,N,N,N,N,N,,N,N,N,N,N,N,N,,N,,,N,N,N,,N,N,,N,,N,N,N,N,Uncertain significance,2,4,6,HCM,0,0,0,0.000542000000000001,eas
+59,23883032C>G,c.5726G>C,p.Arg1909Pro,SCV000564462.1,43085,,N,N,N,N,N,N,Y,,N,N,Y,N,N,N,N,,Y,,,N,N,N,,N,N,,N,,N,N,N,N,Likely Pathogenic,0,1,1,DCM +/- LVH & myopathy,0,2,2,-,-
+60,23883018C>T,c.5740G>A,p.Glu1914Lys,SCV000564463.1,43088,,N,N,N,N,N,N,Y,,N,N,Y,N,N,N,N,,Y,,,Y,N,N,,N,N,,N,,N,N,N,N,Likely pathogenic,4,0,4,DCM +/- myopathy,0,0,0,-,-
